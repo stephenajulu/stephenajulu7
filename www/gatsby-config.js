@@ -1,12 +1,12 @@
 require("dotenv").config();
 
 const siteMetadata = {
-  title: `Trong Nguyen's Desk`,
-  name: `Trong Nguyen`,
-  siteUrl: `https://trongnguyen.co`,
-  description: `Product Designer who's learning to write and express thoughts`,
+  title: `Stephen Ajulu | Front End Dev and CyberSec Analyst`,
+  name: `Stephen Ajulu`,
+  siteUrl: `https://stephenajulu7.netlify.com`,
+  description: `Hi, I’m Stephen, front end web developer and cybersecurity analyst in Kenya.`,
   hero: {
-    heading: `Hi, I’m Trong, product designer at Carousell.`,
+    heading: `Hi, I’m Stephen, front end web developer and cybersecurity analyst in Kenya.`,
     writingHeading: `Writing is designing.`,
     maxWidth: 800,
   },
@@ -41,8 +41,8 @@ const plugins = [
   {
     resolve: `gatsby-plugin-manifest`,
     options: {
-      name: `Trong Nguyen's Desk`,
-      short_name: `Trong`,
+      name: `Stephen Ajulu`,
+      short_name: `Ajulu`,
       start_url: `/`,
       background_color: `#fff`,
       theme_color: `#fff`,
