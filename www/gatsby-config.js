@@ -3,7 +3,7 @@ require("dotenv").config();
 const siteMetadata = {
   title: `Stephen Ajulu | Front End Dev and CyberSec Analyst`,
   name: `Stephen Ajulu`,
-  siteUrl: `/`,
+  siteUrl: `https://stephenajulu7.netlify.app`,
   description: `Hi, I’m Stephen, front end web developer and cybersecurity analyst in Kenya.`,
   hero: {
     heading: `Hi, I’m Stephen, front end web developer and cybersecurity analyst in Kenya.`,
